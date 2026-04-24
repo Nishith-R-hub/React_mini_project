@@ -57,8 +57,8 @@ const ContactSection = () => {
             </div>
             <h3 className="text-lg font-semibold text-foreground mb-2">Institution</h3>
             <p className="text-foreground/70">
-              Department of Engineering<br />
-              University Name
+              Department of Computer Science &amp; Engineering<br />
+              SMVITM - Shri Madhwa Vadhiraja Institute of Technology &amp; Management
             </p>
           </motion.div>
 
