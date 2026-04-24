@@ -13,24 +13,24 @@ import { Users } from 'lucide-react';
 const TeamSection = () => {
   const teamMembers = [
     {
-      name: 'Dr. Sarah Chen',
+      name: 'Rohith Sheregar',
       role: 'Project Lead',
-      description: 'Satellite imagery analysis and machine learning algorithms',
+      description: 'Satellite imagery analysis, machine learning algorithms and system integration.',
     },
     {
-      name: 'Alex Rodriguez',
+      name: 'Nishith R Poojary',
       role: 'Data Engineer',
-      description: 'AIS data processing and real-time data fusion',
+      description: 'AIS data processing and real-time data fusion pipeline development.',
     },
     {
-      name: 'Jamie Thompson',
+      name: 'Reynol D\'Souza',
       role: 'Systems Architect',
-      description: 'System design and backend infrastructure',
+      description: 'System design, backend infrastructure and deployment.',
     },
     {
-      name: 'Morgan Lee',
+      name: 'Prajwal Shanbhag',
       role: 'Research Analyst',
-      description: 'Environmental impact assessment and validation',
+      description: 'Environmental impact assessment and result validation.',
     },
   ];
 
